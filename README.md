@@ -38,7 +38,7 @@ header {
 
 <body>
 
-<header>🔥 Extra Turki 🔥</header>
+<header> Extra Turki </header>
 
 <div class="container">
 
